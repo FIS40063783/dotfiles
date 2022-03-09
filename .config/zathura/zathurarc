@@ -1,0 +1,10 @@
+map p print
+map r reload
+map R rotate
+map J zoom out
+map K zoom in
+map gg goto top
+map G goto bottom
+
+set font "Iosevka normal 9"
+set guioptions none
