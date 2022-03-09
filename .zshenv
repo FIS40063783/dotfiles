@@ -1,0 +1,11 @@
+export EDITOR="nvim"
+export VISUAL="nvim"
+export BROWSER="firefox"
+export MOZ_ENABLE_WAYLAND=1
+export GOPATH="$HOME/Code/go"
+export QT_QPA_PLATFORM=wayland
+export QT_QPA_PLATFORMTHEME=gnome
+export XDG_CURRENT_DESKTOP=sway
+export XMODIFIERS=@im=fcitx
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
